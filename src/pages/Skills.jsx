@@ -5,7 +5,6 @@ import SkillBar from "../components/SkillBar";
 import {Spacer} from "@nextui-org/react";
 
 function Skills() {
-    const defaultContent = "Hello!"
 
     const programming = [
         {label: "Java", value: 80},
