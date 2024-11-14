@@ -161,12 +161,15 @@ button {
 
 .card-content {
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* Limits the content to 3 lines */
+  -webkit-line-clamp: 4; /* Limits the content to 4 lines */
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
   max-height: 400px; /* Adjust based on how much content you want visible */
-  min-height: 120px; /* Set a minimum height to ensure uniformity */
+  min-height: 120px; /* Ensures uniform card height */
+  word-wrap: break-word; /* Helps avoid breaking words */
+  overflow-wrap: break-word; /* Ensures words don’t break mid-line */
+  hyphens: none; /* Prevents automatic hyphenation */
 }
 
 .card-content-expanded {

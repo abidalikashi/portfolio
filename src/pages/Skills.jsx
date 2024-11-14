@@ -79,35 +79,35 @@ function Skills() {
                     </div>
 
                     <div>
-                        <Cards src="https://cdn.pixabay.com/photo/2018/10/10/13/51/cat-3737294_1280.jpg"
-                               title="Pull Request Ettiqute"
-                               body="PRs handling is a crucial part of teamwork, regardless of skill level there's always an oppertunity to learn, asking why certain code is written a certian way opens up a dialog to learn and grow"
-                               link="https://gist.github.com/mikepea/863f63d6e37281e329f8"
-                               link_description="PR Ettiqute"
+                        <Cards src="https://cdn.pixabay.com/photo/2023/03/14/14/57/cat-box-7852492_1280.jpg"
+                               title="Iterative Approach"
+                               body="Achieving MVP as quickly as possible then iterating over it is usually my design style, I make sure that it works first then pull reusable features modularize the code base and then work it to ensure its scalable"
+                               link="https://www.geeksforgeeks.org/software-engineering-prototyping-model/"
+                               link_description="Prototyping Model"
                         />
                     </div>
                     <div>
-                        <Cards src="https://cdn.pixabay.com/photo/2018/10/10/13/51/cat-3737294_1280.jpg"
-                               title="Pull Request Ettiqute"
-                               body="PRs handling is a crucial part of teamwork, regardless of skill level there's always an oppertunity to learn, asking why certain code is written a certian way opens up a dialog to learn and grow"
-                               link="https://gist.github.com/mikepea/863f63d6e37281e329f8"
-                               link_description="PR Ettiqute"
+                        <Cards src="https://cdn.pixabay.com/photo/2020/03/18/22/35/cats-4945658_1280.png"
+                               title="Teaching and Leadership"
+                               body="Teaching code has been one of my most enjoyed aspects of my career, I love it so much I've taught online classes at Varsity tutors on my spare time, I enjoy guiding people into their software journey"
+                               link="https://www.varsitytutors.com"
+                               link_description="Varsity Tutors"
                         />
                     </div>
                     <div>
-                        <Cards src="https://cdn.pixabay.com/photo/2018/10/10/13/51/cat-3737294_1280.jpg"
-                               title="Pull Request Ettiqute"
-                               body="PRs handling is a crucial part of teamwork, regardless of skill level there's always an oppertunity to learn, asking why certain code is written a certian way opens up a dialog to learn and grow"
-                               link="https://gist.github.com/mikepea/863f63d6e37281e329f8"
-                               link_description="PR Ettiqute"
+                        <Cards src="https://cdn.pixabay.com/photo/2022/12/31/11/48/cat-7688476_1280.jpg"
+                               title="Testing"
+                               body="Whether its unit testing or test automation I always ensure my code is covered and my product is tested, I'll take initiative in building an automation framework that fits your organization needs"
+                               link="https://gist.github.com/abidalikashi/d5b7cc6ad5e83b023147284953b85b4f"
+                               link_description="Testing Principals"
                         />
                     </div>
                     <div>
-                        <Cards src="https://cdn.pixabay.com/photo/2018/10/10/13/51/cat-3737294_1280.jpg"
-                               title="Pull Request Ettiqute"
-                               body="PRs handling is a crucial part of teamwork, regardless of skill level there's always an oppertunity to learn, asking why certain code is written a certian way opens up a dialog to learn and grow"
-                               link="https://gist.github.com/mikepea/863f63d6e37281e329f8"
-                               link_description="PR Ettiqute"
+                        <Cards src="https://cdn.pixabay.com/photo/2023/09/04/14/44/black-kitten-8232835_960_720.jpg"
+                               title="Generative AI"
+                               body="AI and Prompt Engineering has been a growing skill with me, I use AI to accelerate my workflows and achieve faster turnaround on my projects, learning how to setup and prompt LLMs has been a wild ride"
+                               link="https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file"
+                               link_description="Prompt Engineering"
                         />
                     </div>
                 </div>
